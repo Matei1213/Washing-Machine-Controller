@@ -32,7 +32,7 @@ Relay Control
 
 <img width="1185" height="789" alt="image" src="https://github.com/user-attachments/assets/e053645b-d992-4e95-b508-dea00d022acf" />
 
-![pcb](https://github.com/user-attachments/assets/e1d92fe5-6ce0-4b7e-a69f-a43997df0ca2)
+![pcb](https://github.com/user-attachments/assets/6116255f-32f3-4bdb-83e6-7f1bf80098a5)
 
 
 
